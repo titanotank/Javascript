@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mustafa Murat Coskun",
+        "departman": "Bilsim",
+        "salary": 3500
+    },
+    {
+        "name": "Oguz Artıran",
+        "departman": "Bilisim",
+        "salary": 4000
+    },
+    {
+        "name": "Tuncay Sahin",
+        "departman": "Bilisim",
+        "salary": 4500
+    }
+]

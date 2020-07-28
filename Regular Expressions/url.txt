@@ -1,0 +1,51 @@
+https://www.google.com
+http://coreyms.com
+https://youtube.com
+https://www.nasa.gov
+
+https?://(www\.)?\w+\.(com|gov)
+
+
+000.12.12.034
+121.234.12.12
+
+23.45.12.56
+
+000.12.234.23.23
+666.666.23.23
+.213.123.23.32
+23.45.22.32.
+I.Am.not.an.ip
+
+^((0|00|000|0?[0-9]|0?[0-9][0-9]|1[0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])\.){3}(0|00|000|0?[0-9]|0?[0-9][0-9]|1[0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])$
+
+Goodbye bye bye world world world
+Sam went went to to to his business
+Reya is is the the best player in eye eye game
+in inthe
+Hello hello Ab aB
+
+\1 demek 1. grup demek
+0 demek bulduğu tüm grup demek
+(\b\w+\b)(\s\1\b)+
+
+Julia
+Samantha
+Samantha_21
+1Samantha
+Samantha?10_2A
+JuliaZ007
+Julia@007
+_Julia007
+
+^[a-zA-Z][a-zA-Z0-9_]{7,29}$
+
+<h1>Nayeem loves counseling</h1>
+<h1><h1>Sanjay has no watch</h1></h1><par>So wait for a while</par>
+<Amee>safat codes like a ninja</amee>
+<SA premium>Imtiaz has a secret crush</SA premium>
+
+<(.+)>([^<]+)</\1>
+<(.+)> etikek acilip kapanacak
+([^<]+) etiketin baslamadığı değerler Var
+</\1> etiket kapanacak ve icindeki değer 1. grop olacak

@@ -1,0 +1,33 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Ha HaHa
+
+cat
+mat
+pat
+bat
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+coreyms.com
+
+321-555-4321
+123.555.1234
+123*468*5445
+
+\d\d\d.\d\d\d.\d\d\d\d
+\d{3}.\d{3}.\d{4}
+
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+
+
+Mr\.?\s[A-Z]\w*
+M(r|s)\.?\s[A-Z]\w
+M(r|s|rs)\.?\s[A-Z]\w*

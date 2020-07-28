@@ -1,0 +1,10 @@
+CoreyMSchafer@gmail.com
+corey.schafer@university.edu
+corey-321-schafer@my-work.net
+
+
+^[A-Z]\w+[@]\w+\.\w+
+^[a-zA-Z.]+@[a-z]+\.com
+[a-zA-Z.]+@[a-z]+\.\w+
+[a-zA-Z.]+@[a-z]+\.edu
+[a-zA-Z.-]+@[a-z-]+\.(com|edu|net)
